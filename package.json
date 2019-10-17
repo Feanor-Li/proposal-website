@@ -1,0 +1,11 @@
+{
+  "name": "proposal",
+  "version": "1.0.0",
+  "description": "This is a website designed to teach children sustainability and systematic thinking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pingxuan Li[Lily]",
+  "license": "ISC"
+}
