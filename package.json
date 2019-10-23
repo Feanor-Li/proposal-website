@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pingxuan Li[Lily]",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fullpage.js": "^3.0.7"
+  }
 }
