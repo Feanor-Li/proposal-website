@@ -9,6 +9,6 @@
   "author": "Pingxuan Li[Lily]",
   "license": "ISC",
   "dependencies": {
-    "fullpage.js": "^3.0.7"
+    "fullpage.js": "^4.0.5"
   }
 }
